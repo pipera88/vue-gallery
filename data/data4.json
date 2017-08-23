@@ -1,0 +1,31 @@
+{
+  "albums": {
+    "Running": {
+      "clean_name": "Running",
+      "id": 2,
+      "img": {
+        "url": "https://arpiper-dev.s3.amazonaws.com/media/med/2017/06/14/400x400images/2017/06/14/0008.jpg",
+        "id": 2,
+        "tags": "half marathon rock and roll finish",
+        "name": "RocknRoll Half finish"
+      },
+      "name": "Running"
+    },
+    "Enchantments": {
+      "clean_name": "Enchantments",
+      "id": 1,
+      "name": "Enchantments"
+    },
+    "Climbing & Hiking": {
+      "clean_name": "Climbing_&_Hiking",
+      "id": 3,
+      "img": {
+        "url": "https://arpiper-dev.s3.amazonaws.com/media/med/2017/06/14/400x400images/2017/06/14/P1050472.jpg",
+        "id": 4,
+        "tags": "skaha climbing green",
+        "name": "climbing1"
+      },
+      "name": "Climbing & Hiking"
+    }
+  }
+}

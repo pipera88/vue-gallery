@@ -1,0 +1,7 @@
+{
+  "data": {
+    "__commment": "type should be 'local' or 'url'",
+    "type": "local",
+    "source": "./data/data2.json"
+  }
+}
