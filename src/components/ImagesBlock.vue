@@ -246,12 +246,10 @@ export default {
   },
   created: function () {
     this.evtHub.$on("get-next-image", this.sendImage)
-    // this.promise = this.getImages()
     this.evtHub.$on("images-loaded", this.imagesLoaded)
   },
   mounted: function () {
     window.addEventListener("scroll", this.checkScrollPosition)
-    // let imageData = this.getImages()
     let imageData = fetch(this.images_source).then(res => res.json())
     this.setImages(imageData)
   },
