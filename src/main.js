@@ -16,6 +16,6 @@ new Vue({
   template: "<App :album_uri='album_uri'/>",
   components: { App },
   data: {
-    album_uri: "https://www.arpiper.com/images/api/images/albums/all/1/"
+    album_uri: ""
   }
 })
