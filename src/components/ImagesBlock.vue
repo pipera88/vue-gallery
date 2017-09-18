@@ -287,6 +287,7 @@ export default {
   background-color: #4caf50;
   border: 3px solid #4caf50;
   padding: 5px 10px;
+  height: auto;
 }
 .vue-button:hover {
   cursor: pointer;
